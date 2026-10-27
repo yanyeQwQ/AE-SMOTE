@@ -2,7 +2,7 @@
 Synthetic Metabolomics Dataset Generator for Imbalanced Classification Studies
 ===========================================================================
 Supplementary code for the manuscript:
-[Insert Manuscript Title Here]
+A Stable Feature Screening Framework Integrating Autoencoder and SMOTE for Imbalanced Metabolomics
 
 Purpose
 -------
