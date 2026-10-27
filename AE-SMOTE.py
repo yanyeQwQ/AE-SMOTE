@@ -2,7 +2,7 @@
 Autoencoder-DBSCAN-SMOTE (AE-DBSCAN-SMOTE) for High-Dimensional Imbalanced Data
 ================================================================================
 Supplementary code for the manuscript:
-[Insert Manuscript Title Here]
+A Stable Feature Screening Framework Integrating Autoencoder and SMOTE for Imbalanced Metabolomics
 
 Purpose
 -------
